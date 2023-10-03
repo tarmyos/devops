@@ -3,7 +3,7 @@
 defaults:
   run:
     shell: bash
-    working-directory: ../../userAPI
+    working-directory: ../userAPI
 
 name: Node.js CI
 
