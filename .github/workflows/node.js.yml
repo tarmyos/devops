@@ -3,7 +3,7 @@
 defaults:
   run:
     shell: bash
-    working-directory: userapi
+    working-directory: ../../userapi
 
 name: Node.js CI
 
